@@ -9,13 +9,3 @@ DESTINATION_PROJECT_PATH = "global_prod_mods_4/"
 # Database storage name
 DATABASE_NAME = "global_audit_mods_4.sqlite3"
 
-
-
-# # Source Ignition Project (zipped or unzipped)
-# SOURCE_PROJECT_PATH = "PureWest_2026-04-29_1336"
-#
-# # Destination directory for modified views
-# DESTINATION_PROJECT_PATH = "purewest_prod_mods_4/"
-#
-# # Database storage name
-# DATABASE_NAME = "purewest_audit_mods_4.sqlite3"
