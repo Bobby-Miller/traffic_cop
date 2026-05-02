@@ -1,0 +1,7 @@
+[project]
+name = "110046-prw-prod-trials"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []

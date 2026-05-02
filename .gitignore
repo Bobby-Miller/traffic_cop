@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+global_*/
+Global_*/
+PureWest_*/
+purewest_*/
+*.sqlite3
+pw_prod_mods_2/
+# Virtual environments
+.venv
