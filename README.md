@@ -49,7 +49,7 @@ This database serves as an exhaustive audit trail, giving you full visibility in
 1. **Prepare Your Ignition Project:**
    - Export your project from the Ignition Gateway (`.zip` format).
    - Unzip the project archive into a folder on your local machine.
-   - Update: Make sure to add a session custom property `pageSelected` to your project to capture the page which the logging is pointed to.
+   - **Update**: Make sure to add a session custom property `pageSelected` to your project to capture the page which the logging is pointed to.
 
 2. **Configure the Tool:**
    - Open `config.py`.
